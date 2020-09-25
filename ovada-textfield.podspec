@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/aqeel-ovada/ovada-textfield.git", :tag => "1.0.0" }
 
-  spec.source_files  = "ovada-textfield"
+  spec.source_files  = "ovada-textfield/*.{h,m}"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
