@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "There is only one vibrating function"
 
-  # spec.homepage     = "http://EXAMPLE/ovada-textfield"
+    spec.homepage     = "https://www.delinemedia.com"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
